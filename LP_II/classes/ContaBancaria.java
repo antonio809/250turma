@@ -1,6 +1,5 @@
 package classes;
 
-
 public class ContaBancaria {
     
     public int numero;
